@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MagicChessBoard\MagicChessBoard\bin\Debug\net5.0\MagicChessBoard.exe
+C:\Users\User\source\repos\MagicChessBoard\MagicChessBoard\bin\Debug\net5.0\MagicChessBoard.deps.json
+C:\Users\User\source\repos\MagicChessBoard\MagicChessBoard\bin\Debug\net5.0\MagicChessBoard.runtimeconfig.json
+C:\Users\User\source\repos\MagicChessBoard\MagicChessBoard\bin\Debug\net5.0\MagicChessBoard.runtimeconfig.dev.json
+C:\Users\User\source\repos\MagicChessBoard\MagicChessBoard\bin\Debug\net5.0\MagicChessBoard.dll
+C:\Users\User\source\repos\MagicChessBoard\MagicChessBoard\bin\Debug\net5.0\ref\MagicChessBoard.dll
+C:\Users\User\source\repos\MagicChessBoard\MagicChessBoard\bin\Debug\net5.0\MagicChessBoard.pdb
+C:\Users\User\source\repos\MagicChessBoard\MagicChessBoard\obj\Debug\net5.0\MagicChessBoard.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MagicChessBoard\MagicChessBoard\obj\Debug\net5.0\MagicChessBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MagicChessBoard\MagicChessBoard\obj\Debug\net5.0\MagicChessBoard.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MagicChessBoard\MagicChessBoard\obj\Debug\net5.0\MagicChessBoard.AssemblyInfo.cs
+C:\Users\User\source\repos\MagicChessBoard\MagicChessBoard\obj\Debug\net5.0\MagicChessBoard.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MagicChessBoard\MagicChessBoard\obj\Debug\net5.0\MagicChessBoard.dll
+C:\Users\User\source\repos\MagicChessBoard\MagicChessBoard\obj\Debug\net5.0\ref\MagicChessBoard.dll
+C:\Users\User\source\repos\MagicChessBoard\MagicChessBoard\obj\Debug\net5.0\MagicChessBoard.pdb
+C:\Users\User\source\repos\MagicChessBoard\MagicChessBoard\obj\Debug\net5.0\MagicChessBoard.genruntimeconfig.cache
